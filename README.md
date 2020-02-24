@@ -1,5 +1,5 @@
 # Python--Dangdang
-基于python语言的当当网商品信息爬虫系统
+# 基于python语言的当当网商品信息爬虫系统
 开发环境为Windows 10、Python 3.7和MySQL 8.0.18
 主要设计和实现:
 1 创建爬虫项目
